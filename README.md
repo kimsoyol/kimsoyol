@@ -10,5 +10,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to play Saung(Burmese Harp).
 
+
+## Coding Stats
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
