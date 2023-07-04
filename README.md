@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently looking for Job.
+- 🔭 I’m currently looking for a Job.
 - 🌱 I’m currently learning Computer Science.
 - 👯 I’m looking to collaborate on React.
 - 💬 Ask me about ...Anything
@@ -13,5 +13,4 @@
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
