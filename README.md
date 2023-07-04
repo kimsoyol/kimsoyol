@@ -11,4 +11,17 @@
 
 ## Coding Stats
 <!--START_SECTION:waka-->
+
+```txt
+From: 02 July 2023 - To: 03 July 2023
+
+Total Time: 50 mins
+
+HTML         31 mins         ███████████████▓░░░░░░░░░   63.19 %
+Python       11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.62 %
+Other        6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+```
+
 <!--END_SECTION:waka-->
