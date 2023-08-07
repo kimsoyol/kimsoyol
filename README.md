@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently looking for a Job.
-- 🌱 I’m currently learning Computer Science.
-- 👯 I’m looking to collaborate on React.
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: naywinlhaing@gmail.com
 - 😄 Pronouns: He/Him
