@@ -11,8 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   4 hrs 37 mins   █████████████████████████   99.80 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python           5 hrs 47 mins   ████████████████████░░░░░   79.93 %
+JavaScript       1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+JSON             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+ActionScript 3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Objective-C      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
